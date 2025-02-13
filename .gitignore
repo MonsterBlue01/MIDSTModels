@@ -159,3 +159,5 @@ dmypy.json
 cython_debug/
 
 .python-version
+
+clavaddpm_white_box/
